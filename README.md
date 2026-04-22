@@ -1,0 +1,1 @@
+# Estrategia_EMA200
