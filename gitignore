@@ -1,0 +1,20 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Output files
+*.csv
+*.png
+backtest_historico.csv
+chart*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
